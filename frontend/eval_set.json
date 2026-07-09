@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the main topic of this document?",
+    "expected_answer": "A brief description of what the correct answer should contain"
+  },
+  {
+    "question": "Another specific question from your PDF content",
+    "expected_answer": "Expected answer here"
+  }
+]
